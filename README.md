@@ -1,8 +1,8 @@
-# 🌤️ Weather App
+#  Weather App
 
 A simple React Native weather application that shows current weather and 5-day forecasts.
 
-## 📱 Features
+##  Features
 
 - Current weather for any city
 - 5-day weather forecast
@@ -11,7 +11,7 @@ A simple React Native weather application that shows current weather and 5-day f
 - Search history
 - Offline support
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -78,7 +78,7 @@ A simple React Native weather application that shows current weather and 5-day f
 - Clean build: `cd android && ./gradlew clean`
 - Reinstall dependencies: `rm -rf node_modules && npm install`
 
-## 📋 Usage
+##  Usage
 
 1. **Search for weather:** Type city name and tap search 
 2. **Use current location:** Tap the location button 
