@@ -86,9 +86,19 @@ A simple React Native weather application that shows current weather and 5-day f
 4. **Change units:** Toggle between °C and °F
 5. **Settings:** Access via settings button
 
+
 ##  Built With
 
 - React Native 0.80
 - TypeScript
 - OpenWeatherMap API
 - AsyncStorage for offline data
+
+
+
+## 📸 App Screenshots
+![1000018090](https://github.com/user-attachments/assets/fd50be70-9e6c-449b-b1eb-b63ad65c0fd9)
+![1000018093](https://github.com/user-attachments/assets/430c515f-d524-4ac2-bc8a-bed28bdb4170)
+![1000018094](https://github.com/user-attachments/assets/62824e2d-86a7-4f0e-b7d9-abf6a92dcc66)
+![1000018092](https://github.com/user-attachments/assets/bb0d662f-f732-4570-907f-a0d3b575c19e)
+![1000018091](https://github.com/user-attachments/assets/b182976d-4527-4d67-8e52-3d6758fbd8ad)
