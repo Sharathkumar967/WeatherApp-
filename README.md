@@ -23,7 +23,7 @@ A simple React Native weather application that shows current weather and 5-day f
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Sharathkumar967/WeatherApp-.git
    cd WeatherApp
    ```
 
